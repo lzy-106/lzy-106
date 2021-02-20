@@ -3,8 +3,8 @@
 
 ## Complete Project List
 ### [Legacy website improvement in an Agile team of 5](https://github.com/CactusPuppy/snapcon), Snap*!*Con, 2021-1 - ongoing
-![A screenshot of the Snap!Con website, after my contribution](/img/snapcon.png "Snap!Con Website"){ width=50% }
-<!-- <img src="/img/snapcon.png" width=> -->
+<!-- ![A screenshot of the Snap!Con website, after my contribution](/img/snapcon.png "Snap!Con Website"){ width=10% } -->
+<img src="/img/snapcon.png" width=10%>
 
 1. Ruby on Rails framework, TDD-CI workflow with Rspec & Cucumber
 2. Worked in Agile team of 5 as web developer
