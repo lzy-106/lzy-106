@@ -1,9 +1,10 @@
-# About Me (Beyond My Resume)
-## Resume at <https://github.com/lzy-106/lzy-106/blob/main/LU%20Ziyi%20Resume.pdf>
+# About Me *(Beyond My Resume)*
+> Resume at <https://github.com/lzy-106/lzy-106/blob/main/LU%20Ziyi%20Resume.pdf>
 
 ## Complete Project List
 ### [Legacy website improvement in an Agile team of 5](https://github.com/CactusPuppy/snapcon), Snap*!*Con, 2021-1 - ongoing
-![A screenshot of the Snap!Con website, after my contribution](/img/snapcon.png "Snap!Con Website")
+![A screenshot of the Snap!Con website, after my contribution](/img/snapcon.png "Snap!Con Website"){ width=50% }
+<!-- <img src="/img/snapcon.png" width=> -->
 
 1. Ruby on Rails framework, TDD-CI workflow with Rspec & Cucumber
 2. Worked in Agile team of 5 as web developer
