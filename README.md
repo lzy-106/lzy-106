@@ -1,5 +1,10 @@
 # About Me *(Beyond My Resume)*
-> Resume at <https://github.com/lzy-106/lzy-106/blob/main/LU%20Ziyi%20Resume.pdf>
+> Resume at <https://github.com/lzy-106/lzy-106/blob/main/LU%20Ziyi%20Resume.pdf>, in case you are curious anyway
+
+I am a senior pursuing a CS & Astrophysics double major at **UC Berkeley**.
+Presently seeking a full-time **Software Engineer** position.
+
+Despite my youth, I have got used to learning new tools or new usage of old ones every semester to meet specific demands at different classes. Sometimes, the learning needs to be done within days. Python is for short projects in algorithm classes, and big ones depending on scientific libraries in astronomy ones, some of which are web enabled. C is for performance-critical software, especially when multiprocessing and direct usage of x86 vector instructions are needed. Furthermore, Go is for the professor infatuated with its ‘concurrency’ feature and volun-telling students to constantly learn new languages. The challenges at school may not parallel industrial ones, but they assure that I am willing to ever evolve.
 
 ## Complete Project List
 ### [Legacy website improvement in an Agile team of 5](https://github.com/CactusPuppy/snapcon), Snap*!*Con, 2021-1 - ongoing
