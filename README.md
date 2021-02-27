@@ -11,4 +11,4 @@ with a **Computer Science & Astrophysics** double BA.
 ## Website: <https://lzy-106.github.io/>
 ## Resume: <https://github.com/lzy-106/lzy-106/blob/main/LU%20Ziyi%20Resume.pdf>
 
-I would like to use my software skills & team-oriented personality to continually optimise how people or customers do what they love.
+### I would like to use my software skills & team-oriented personality to continually optimise how people or customers do what they love.
