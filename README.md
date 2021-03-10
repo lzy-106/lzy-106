@@ -1,6 +1,6 @@
 # I am   →   **Z. L.**
 
-Graduating from **UC Berkeley** in Dec 2021,
+Student at **UC Berkeley**, graduating in Dec 2021
 
 with a **Computer Science & Astrophysics** double BA.
 
